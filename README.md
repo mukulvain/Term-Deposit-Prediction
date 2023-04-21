@@ -11,9 +11,10 @@ Alternatively, you can download the dataset from [here](https://archive.ics.uci.
 
 ### Installation
 
-Clone the repository using
+1. Clone the repository using
 `git clone https://github.com/mukulvain/Term-Deposit-Prediction.git`
-Install the Dependencies using
+
+2. Install the Dependencies using
 `pip install -r requirements.txt`
 
 ### Team Members
